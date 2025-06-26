@@ -1,0 +1,10 @@
+21:27:21 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4656	     12	   1572	   6240	   1860	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+
+21:27:21 Build Finished. 0 errors, 0 warnings. (took 377ms)
+
