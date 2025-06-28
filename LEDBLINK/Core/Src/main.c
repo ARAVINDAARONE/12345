@@ -95,8 +95,15 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */ //Toggling LED Program//
-	  HAL_GPIO_TogglePin(LED_PIN_GPIO_Port, LED_PIN_Pin);
+	  //HAL_GPIO_TogglePin(LED_PIN_GPIO_Port, LED_PIN_Pin);
+	  //HAL_Delay(100);
+	  //HAL_GPIO_TogglePin(LED_PIN_GPIO_Port, LED_PIN_Pin);
 	  HAL_Delay(1000);
+	  HAL_GPIO_WritePin(LED_PIN_GPIO_Port,LED_PIN_Pin, 1 );
+	  HAL_Delay(100);
+	  HAL_GPIO_WritePin(LED_PIN_GPIO_Port,LED_PIN_Pin, 0 );
+
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */

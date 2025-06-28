@@ -1,4 +1,123 @@
-21:00:54 **** Incremental Build of configuration Debug for project LEDBLINK ****
+09:43:57 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:44:01 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:44:31 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:45:03 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:45:20 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:45:39 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:45:51 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:46:09 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+09:46:22 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:16:34 **** Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:16:52 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:17:29 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:18:18 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:18:32 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:18:39 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:19:04 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:19:36 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:19:46 **** Incremental Build of configuration Debug for project LEDBLINK ****
 make -j12 all 
 arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
 arm-none-eabi-gcc -o "LEDBLINK.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Softwares\STM-32\STM_PROGRAMMING\TogglingLED\LEDBLINK\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LEDBLINK.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
@@ -7,50 +126,92 @@ Finished building target: LEDBLINK.elf
 arm-none-eabi-size  LEDBLINK.elf 
 arm-none-eabi-objdump -h -S LEDBLINK.elf  > "LEDBLINK.list"
    text	   data	    bss	    dec	    hex	filename
-   4656	     12	   1572	   6240	   1860	LEDBLINK.elf
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
 Finished building: default.size.stdout
  
 Finished building: LEDBLINK.list
  
-21:24:37 **** Incremental Build of configuration Debug for project LEDBLINK ****
+15:20:10 **** Incremental Build of configuration Debug for project LEDBLINK ****
 make -j12 all 
 arm-none-eabi-size  LEDBLINK.elf 
    text	   data	    bss	    dec	    hex	filename
-   4656	     12	   1572	   6240	   1860	LEDBLINK.elf
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
 Finished building: default.size.stdout
  
-21:26:25 **** Incremental Build of configuration Debug for project LEDBLINK ****
+15:20:21 **** Incremental Build of configuration Debug for project LEDBLINK ****
 make -j12 all 
-arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "LEDBLINK.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Softwares\STM-32\STM_PROGRAMMING\TogglingLED\LEDBLINK\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LEDBLINK.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: LEDBLINK.elf
- 
 arm-none-eabi-size  LEDBLINK.elf 
-arm-none-eabi-objdump -h -S LEDBLINK.elf  > "LEDBLINK.list"
    text	   data	    bss	    dec	    hex	filename
-   4652	     12	   1572	   6236	   185c	LEDBLINK.elf
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
 Finished building: default.size.stdout
  
-Finished building: LEDBLINK.list
- 
-21:27:00 **** Incremental Build of configuration Debug for project LEDBLINK ****
+15:20:43 **** Incremental Build of configuration Debug for project LEDBLINK ****
 make -j12 all 
-arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "LEDBLINK.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Softwares\STM-32\STM_PROGRAMMING\TogglingLED\LEDBLINK\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LEDBLINK.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: LEDBLINK.elf
- 
 arm-none-eabi-size  LEDBLINK.elf 
-arm-none-eabi-objdump -h -S LEDBLINK.elf  > "LEDBLINK.list"
    text	   data	    bss	    dec	    hex	filename
-   4656	     12	   1572	   6240	   1860	LEDBLINK.elf
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
 Finished building: default.size.stdout
  
-Finished building: LEDBLINK.list
- 
-21:27:21 **** Incremental Build of configuration Debug for project LEDBLINK ****
+15:21:21 **** Incremental Build of configuration Debug for project LEDBLINK ****
 make -j12 all 
 arm-none-eabi-size  LEDBLINK.elf 
    text	   data	    bss	    dec	    hex	filename
-   4656	     12	   1572	   6240	   1860	LEDBLINK.elf
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+15:22:04 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:28:43 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+15:29:09 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+15:29:31 **** Incremental Build of configuration Debug for project STM_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11560	     12	   1692	  13264	   33d0	STM_PWM.elf
+Finished building: default.size.stdout
+ 
+15:30:29 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+15:31:05 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+15:31:23 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
+Finished building: default.size.stdout
+ 
+15:31:36 **** Incremental Build of configuration Debug for project LEDBLINK ****
+make -j12 all 
+arm-none-eabi-size  LEDBLINK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4624	     12	   1572	   6208	   1840	LEDBLINK.elf
 Finished building: default.size.stdout
  
